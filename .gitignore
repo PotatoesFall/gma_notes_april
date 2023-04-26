@@ -1,0 +1,11 @@
+# latexmk shit
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+
+# audio files
+*.mp3
+*.mp4
